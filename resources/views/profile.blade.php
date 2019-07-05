@@ -11,7 +11,7 @@
     <meta name="author" content="">
     <!-- Favicon icon -->
     <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon.png">
-    <title>Admin - MastaMy</title>
+    <title>Admin - MastaMyTry</title>
     <!-- Custom CSS -->
     
     <link href="{{asset('admin/dist/css/style.min.css')}}" rel="stylesheet"> 
